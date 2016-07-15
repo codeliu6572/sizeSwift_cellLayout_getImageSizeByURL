@@ -1,0 +1,6 @@
+framework module Pods_Cell___UITests {
+  umbrella header "Pods-Cell自适应UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
